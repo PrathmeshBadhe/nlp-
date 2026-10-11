@@ -1,0 +1,22 @@
+[
+  {
+    "id": "P1",
+    "abstract": "We introduce GraphNet, a novel graph neural network for node classification evaluated on the Cora dataset. GraphNet achieves 92% accuracy, outperforming existing baseline architectures."
+  },
+  {
+    "id": "P2",
+    "abstract": "This study re-evaluates GraphNet on the Cora dataset under noisy split conditions. Contrary to prior claims, GraphNet yields only 85% accuracy and demonstrates severe parameter instability."
+  },
+  {
+    "id": "P3",
+    "abstract": "We propose TreeGNN, a tree-structured message passing model for biomedical graph mining tested on the PubMed dataset. TreeGNN achieves a state-of-the-art 94% F1-score."
+  },
+  {
+    "id": "P4",
+    "abstract": "We apply TreeGNN to the Cora dataset for node classification tasks. TreeGNN obtains a classification accuracy of 89% across all benchmark splits."
+  },
+  {
+    "id": "P5",
+    "abstract": "We present ResGCN, a residual graph convolutional neural network evaluated on the PubMed dataset for citation link prediction. ResGCN achieves 91% accuracy."
+  }
+]
